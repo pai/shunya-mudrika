@@ -6,7 +6,7 @@ Mudrika (MDR) is a digital currency, secured by cryptography and issued through 
 
 Mudrika is released under the terms of the MIT license. Refer https://opensource.org/licenses/MIT.
 
-# Developmenr Process
+# Development Process
 
 The master branch is meant to be stable. Development is normally done is separate branches. Tags are created to indicate official stable releases.
 
