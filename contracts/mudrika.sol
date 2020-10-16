@@ -195,7 +195,7 @@ contract TokenERC20 {
 }
 
 //The Contract
-contract mudrika is owned, TokenERC20{
+contract Mudrika is owned, TokenERC20{
 
 	uint256 public sellPrice;
 	uint256 public buyPrice;
